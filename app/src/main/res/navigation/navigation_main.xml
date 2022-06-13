@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_shows">
+
+    <fragment
+        android:id="@+id/navigation_shows"
+        android:name="com.danielsenik.mytv.view.fragment.ShowsFragment"
+        tools:layout="@layout/fragment_shows">
+        <action
+            android:id="@+id/action_navigation_shows_to_navigation_show"
+            app:destination="@id/navigation_show" />
+    </fragment>
+    <dialog
+        android:id="@+id/navigation_show"
+        android:name="com.danielsenik.mytv.view.fragment.ShowFragment"
+        android:label="ShowFragment"
+        tools:layout="@layout/fragment_show" >
+        <argument
+            android:name="show"
+            app:argType="com.danielsenik.mytv.model.Show" />
+    </dialog>
+</navigation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/gradient_black_fade.xml" value="0.2565" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/ic_round_close_24.xml" value="0.2565" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/ic_round_refresh_24.xml" value="0.2565" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/ic_round_star_24.xml" value="0.2565" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/shape_black_rectangle.xml" value="0.123" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/shape_circle.xml" value="0.2565" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/drawable/shape_rounded_background.xml" value="0.2565" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/layout/fragment_show.xml" value="0.264" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/layout/fragment_shows.xml" value="0.2" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/layout/item_show.xml" value="0.4" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/layout/layout_error.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Daniel/Desktop/MyTV/app/src/main/res/layout/layout_loading.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
